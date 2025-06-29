@@ -42,3 +42,7 @@ Integration with Third-Party Tools: Collaborated with marketing and personalizat
 Code Quality & Consistency: Adhered to strict coding standards to ensure the new design system was scalable, maintainable, and performed efficiently across all brand shops.
 
 Collaborative Development: Worked closely with UX/UI designers, backend developers, and project managers to ensure accurate implementation of the design vision.
+
+## 📌 Notes  
+This is a **case study only**. The original repository is **private and owned by BBG**. No source code is shared here due to confidentiality.
+
