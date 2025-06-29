@@ -1,50 +1,46 @@
-🌸 Bloomr - Shopify E-Commerce Website Development & Redesign
+🎨 Global Design System Roll-out @ Berlin Brands Group
+
 🛠️ Private Project · Case Study Only
 
+
 🔍 Overview
-This document provides a case study of my role in managing the entire e-commerce lifecycle for Bloomr, from its initial launch as a startup to its growth into an established online brand. The project encompassed the initial website build, a major theme and site structure redesign, and ongoing technical and operational management.
 
-As the code and theme assets are proprietary to Bloomr and managed within their private Shopify environment, this repository serves as a detailed project summary rather than a code host.
+This case study outlines my work as a Frontend Developer on a major Global Design System roll-out at Berlin Brands Group (BBG). The objective was to create a unified and modern user experience by implementing a new UX/UI design across four of BBG's major e-commerce brands: Klarstein, electronic star, blumfeldt, and Auna.
 
-👤 My Dual Role
-I served as both the strategic leader and the lead technical implementer, ensuring that business goals were seamlessly translated into a robust and engaging e-commerce platform.
+The project required a systematic implementation of new design components across the entire customer journey, from the home page to the checkout, ensuring brand consistency while leveraging a shared codebase. All work was performed on the Oxid e-commerce CMS.
 
-1. Project Manager
-I directed all technical and operational projects, playing a pivotal role in the company's growth. My responsibilities included:
 
-Team & Stakeholder Management: Led and coordinated in-house teams and external vendors for development, content, marketing, and operations.
+👤 My Role: Frontend Developer
 
-Operational Leadership: Oversaw the integration of critical business functions, including customer service, procurement, fulfillment, and accounting, with the Shopify platform.
+In this project, my role was purely focused on development. As a member of the frontend team, I was responsible for translating the new design system into functional, high-performance code across multiple brand shops. My tasks included:
 
-IT Infrastructure Oversight: Managed the setup of essential IT infrastructure across the office, retail stores, and warehouse to support the e-commerce operations.
+Component Implementation: Building and styling reusable components using HTML, CSS, and JavaScript according to the new design specifications.
 
-2. Lead Shopify Developer
-I was the primary developer for the Bloomr website, responsible for building, maintaining, and enhancing its functionality and user experience.
+Full Funnel Integration: Rolling out the new design across all key areas of the e-commerce sites, including Home Pages, Product Listing Pages (PLPs), Product Detail Pages (PDPs), Contact Pages, footers, and menu bars.
 
-Full-Stack Shopify Development: Built and customized the Shopify theme from the ground up using Liquid, JavaScript, jQuery, and Bootstrap CSS.
+CMS & Personalization Integration: Implementing the frontend changes within the Oxid CMS and ensuring seamless integration with personalization tools like Dynamic Yield and Bloomreach.
 
-UX/UI Redesign & Implementation: Led a major redesign of the theme and site structure to improve user experience, mobile responsiveness, and conversion rates.
-
-Custom Feature Development: Coded unique features and functionalities tailored to Bloomr's business model, modifying templates and scripting solutions to meet specific UX/UI requirements.
+Cross-Browser & Responsive Testing: Ensuring all new components were fully responsive and functioned perfectly across different browsers and devices.
 
 🧰 Tech & Platform Stack
-Platform: Shopify
 
-Templating: Shopify Liquid
+CMS: Oxid
 
-Frontend: JavaScript, jQuery, HTML5, Bootstrap CSS, CSS3
+Frontend: HTML5, CSS3, Bootstrap, JavaScript, jQuery
 
-Project Management Tools: Asana, Jira
+Personalization Tools: Dynamic Yield, Bloomreach
+
+Project Management: Jira, Confluence
+
 
 ✨ Key Contributions & Responsibilities
-E-commerce Platform Lifecycle Management: Led the initial Shopify website development and later orchestrated a complete redesign of the theme and site architecture to enhance UX and drive conversions.
 
-Advanced Theme Customization: Went beyond standard template modifications to code bespoke sections, snippets, and logic in Shopify Liquid, delivering a unique and branded shopping experience.
+Multi-Brand Design Implementation: Successfully rolled out a consistent new design system across four distinct high-traffic e-commerce websites.
 
-Responsive & Mobile-First Design: Used Bootstrap and custom CSS to ensure the website was fully optimized for both desktop and mobile users, which was critical for the brand's target audience.
+End-to-End Page Development: Rebuilt the frontend for critical user-facing pages, ensuring a cohesive look and feel throughout the entire shopping funnel.
 
-Operational Process Streamlining: Spearheaded projects to improve the efficiency of customer service, vendor relations, procurement, and fulfillment workflows through smart integrations and custom tools.
+Integration with Third-Party Tools: Collaborated with marketing and personalization teams to integrate the new design with Dynamic Yield and Bloomreach, enabling A/B testing and targeted content delivery.
 
-Cloud Accounting Migration: Managed the technical side of migrating the company's accounting system from an offline solution to a cloud-based platform integrated with Shopify.
+Code Quality & Consistency: Adhered to strict coding standards to ensure the new design system was scalable, maintainable, and performed efficiently across all brand shops.
 
-Sole Technical Authority: Acted as the go-to expert for all website-related challenges, providing solutions that balanced business needs with technical best practices.
+Collaborative Development: Worked closely with UX/UI designers, backend developers, and project managers to ensure accurate implementation of the design vision.
