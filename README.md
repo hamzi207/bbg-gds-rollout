@@ -1,4 +1,4 @@
-#🎨 Global Design System Roll-out @ Berlin Brands Group#
+# 🎨 Global Design System Roll-out @ Berlin Brands Group #
 
 **🛠️ Private Project · Case Study Only**
 
