@@ -1,10 +1,10 @@
-# 🎨 Global Design System Roll-out @ Berlin Brands Group #
+# 🎨 Global Design System UX/UI Re-Vamp @ Berlin Brands Group #
 
 **🛠️ Private Project · Case Study Only**
 
 ## 🔍 Overview ##
 
-This case study outlines my work as a Frontend Developer on a major Global Design System roll-out at Berlin Brands Group (BBG). The objective was to create a unified and modern user experience by implementing a new UX/UI design across four of BBG's major e-commerce brands: Klarstein, electronic star, blumfeldt, and Auna.
+This case study outlines my work as a Frontend Developer on a major Global Design System UX/UI Re-Vamp at Berlin Brands Group (BBG). The objective was to create a unified and modern user experience by implementing a new UX/UI design across four of BBG's major e-commerce brands: Klarstein, electronic star, blumfeldt, and Auna.
 
 The project required a systematic implementation of new design components across the entire customer journey, from the home page to the checkout, ensuring brand consistency while leveraging a shared codebase. All work was performed on the Oxid e-commerce CMS.
 
